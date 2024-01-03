@@ -30,7 +30,7 @@ export default function Random() {
     }
   
   return (
-    <div className="w-[800px] min-h-min bg-green-500 rounded-3xl border border-black flex flex-col items-center gap-y-5 mt-14">
+    <div className="w-[800px] min-h-min bg-green-500 rounded-3xl border border-[#141514] flex flex-col items-center gap-y-5 mt-14">
       <h1 className=" text-2xl underline uppercase font-semibold pt-4">A Random GIFS</h1>
 
       {
